@@ -13,3 +13,13 @@
 .navbar{
 	font-family: 'Questrial', sans-serif;
 }
+
+.id-photo{
+	float: right;
+}
+
+.cover{
+
+	float: left;
+	padding-left: 10%;
+}
